@@ -20,7 +20,7 @@ Table of contents
 
 
 
-##Intro
+## Intro
 
 1. Create your API account on **GRC Contact**, you will just need your e-mail address and password to get your **GRC_API_TOKEN** and set into [**callAPI.php**](https://github.com/GRC-Contact/api_php/blob/master/callAPI.php).
 
@@ -59,7 +59,7 @@ Table of contents
 
   application/x-www-form-urlencoded
 
-##Usage
+## Usage
 
 
 Response is stringified json, can use json_decode to change to json as below example:
